@@ -1,11 +1,16 @@
 ## Greetings
 ## Who Am I
 My name is Isaiah Gamble. Yes, I use my real name for GitHub.
+
 I enjoy creative works the most, followed by anything that involves a spreadsheet.
+
 ## Recent Projects
 A video-game team balancer based on analysis of individual impact
+
 The analysis and generation of compassionate stories for use in medical schools
+
 Some small video games, recently one for my daughter based on Peppa Pig's "Happy Mrs Chicken"
+
 A few screen-plays
 
 <!--
